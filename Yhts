@@ -1,29 +1,3 @@
-#EXTINF:1,ESPN
-#EXTGRP: SPORTSHUB
-#EXTVLCOPT:http-referrer=https://besthdplayer.click/
-https://srv.vhls.ru.com:443/cdn/premium387/mono.m3u8
-
-#EXTINF:1,BT SPORT
-#EXTGRP: SPORTSHUB
-#EXTVLCOPT:http-referrer=https://besthdplayer.click/
-https://www.vhls.ru.com:443/cdn/premium31/tracks-v1a1/mono.m3u8
-
-#EXTINF:1,ORF SPORT+
-#EXTVLCOPT:http-referrer=https://besthdplayer.click/
-https://srv.vhls.ru.com:443/cdn/premium1/mono.m3u8
-
-#EXTINF:1,BEIN SPORT HD
-#EXTVLCOPT:http-referrer=https://besthdplayer.click/
-https://425.vhls.ru.com:443/cdn/premium425/mono.m3u8
-
-#EXTINF:1, ASTRO SUPERSPORT
-#EXTVLCOPT:http-referrer=https://besthdplayer.click/
-https://417.vhls.ru.com:443/cdn/premium417/mono.m3u8
-
-#EXTINF:1,ASTRO SUPERSPORT 3
-#EXTVLCOPT:http-referrer=https://besthdplayer.click/
-https://125.vhls.ru.com:443/cdn/premium125/mono.m3u8
-
-#EXTINF:1,ASTRO SUPERSPORT 2
-#EXTVLCOPT:http-referrer=https://besthdplayer.click/
-https://124.vhls.ru.com:443/cdn/premium124/mono.m3u8
+#EXTINF:1,5
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.76:80/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/720.m3u8
