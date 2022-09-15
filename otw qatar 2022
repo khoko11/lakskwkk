@@ -1,5 +1,14 @@
+#EXTM3U
 #EXTINF:1, TEST LIVE
 https://webui.vhls.ru.com/lb/premium49/index.m3u8
 
 #EXTINF:1, SOBIRIN TV
 https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+#EXTINF:1,test 1
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com:443/cdnus/premium61/tracks-v1a1/mono.m3u8
+
+#EXTINF:1,test 2
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webui.vhls.ru.com:443/cdn4/premium147/tracks-v1a1/mono.m3u8
