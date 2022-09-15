@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:1, TEST LIVE
 https://webui.vhls.ru.com/lb/premium49/index.m3u8
+
 #EXTINF:1, SOBIRIN TV
-https://webui.vhls.ru.com/lb/premium49/chunk.m3u8
+https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+
