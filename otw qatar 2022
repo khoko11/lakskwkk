@@ -1,4 +1,91 @@
-#EXTM3U
-#EXTINF:1,live MC
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com:443/cdnus/premium134/tracks-v1a1/mono.m3u8
+support channel: t.me/c9p5aU
+
+🏆WORLD CUP QATAR 2022🏆
+=========================================
+#EXTINF:1 tvg-logo="https://www.fifplay.com/img/public/2022-fifa-world-cup-logo.png",1 🆚 1
+#EXTVLCOPT:http-referrer=https://4mj16lyda3j9v74.smokelearned.net/
+https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+#EXTINF:1 tvg-logo="https://www.fifplay.com/img/public/2022-fifa-world-cup-logo.png",2 🆚 2
+#EXTVLCOPT:http-referrer=https://4mj16lyda3j9v74.smokelearned.net/
+https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+
+🇮🇩INDONESIA🇮🇩
+=========================================
+#EXTINF:-1 tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", LIVE 1
+https://etslive-2-vidio-com.akamaized.net:443/exp=1662311166~acl=/hls-p/ingest_9309_*/*~hmac=b25489fd669b82a6aa1ec1e0526f68ee59bc7b77fcd7f25365639c7609e58a92/hls-p/ingest_9309_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", LIVE 2
+https://etslive-2-vidio-com.akamaized.net:443/exp=1662311166~acl=/hls-p/ingest_9309_*/*~hmac=b25489fd669b82a6aa1ec1e0526f68ee59bc7b77fcd7f25365639c7609e58a92/hls-p/ingest_9309_720p/index.m3u8
+
+🏅LIGA CHAMPIONS🏅
+=========================================
+#EXTINF:1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-768x705.png",LIVE 1 🆚
+#EXTVLCOPT:http-referrer=https://4mj16lyda3j9v74.smokelearned.net/
+https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+#EXTINF:1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-768x705.png",LIVE 2🆚
+#EXTVLCOPT:http-referrer=https://4mj16lyda3j9v74.smokelearned.net/
+https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+
+🏅LIGA EROPA🏅
+=========================================
+#EXTINF:1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-5.png",LIVE1 🆚 
+#EXTVLCOPT:http-referrer=https://4mj16lyda3j9v74.smokelearned.net/
+https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+#EXTINF:1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-5.png",LIVE2 🆚 
+#EXTVLCOPT:http-referrer=https://4mj16lyda3j9v74.smokelearned.net/
+https://wbwrkfhsppn.cdnexpress42.net:8443/hls/phsheh97kpcdvc2.m3u8?s=NOW0i_v7_KOLejtMllDd6w&e=1662516940
+
+🇬🇬INGGRIS🇬🇬
+=========================================
+#EXTINF:1 tvg-logo="https://www.nicepng.com/png/full/340-3408253_premier-league-transparent-png-barclays-premier-league-logo.png", LIVE ENG 1
+#EXTVLCOPT:https://yourtehzeeb.com/
+https://s4.yourtehzeeb.com:786/hls/do8.m3u8?md5=VtZVGPrsA35Ux9-C4wk7NQ&expires=1662313734
+
+#EXTINF:1 tvg-logo="https://www.nicepng.com/png/full/340-3408253_premier-league-transparent-png-barclays-premier-league-logo.png", LIVE ENG 2
+#EXTVLCOPT:https://yourtehzeeb.com/
+https://s4.yourtehzeeb.com:786/hls/do8.m3u8?md5=VtZVGPrsA35Ux9-C4wk7NQ&expires=1662313734
+
+🇪🇸SPANYOL🇪🇸
+=========================================
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn56Cqmo42GKj4bwvBhplbOJKMOo8ndhhqdQ&usqp=CAU", LIVE SPAIN 1
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s3.merizaat.com:8080/hls/superlaliga.m3u8?md5=4228NuYwB7sTE-vSg3qU_A&expires=1662221357
+
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn56Cqmo42GKj4bwvBhplbOJKMOo8ndhhqdQ&usqp=CAU", LIVE SPAIN 2
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s3.merizaat.com:8080/hls/superlaliga.m3u8?md5=4228NuYwB7sTE-vSg3qU_A&expires=1662221357
+
+🇮🇹ITALY🇮🇹
+=========================================
+#EXTINF:1 tvg-logo="https://brandlogos.net/wp-content/uploads/2020/09/serie-a-logo-768x768.png", LIVE ITA 1
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s2.lucascd.com:8080/hls/do38.m3u8?md5=Y4lQysrCC8hxid0qfdEh4Q&expires=1662215457
+
+#EXTINF:1 tvg-logo="https://brandlogos.net/wp-content/uploads/2020/09/serie-a-logo-768x768.png", LIVE ITA 2
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s2.lucascd.com:8080/hls/do38.m3u8?md5=Y4lQysrCC8hxid0qfdEh4Q&expires=1662215457
+
+🇩🇪JERMAN🇩🇪
+=========================================
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-XM4H1etkO6g/WwMZIM5WjyI/AAAAAAAAHGQ/ZDnEXCkq02gYWK29qUSsh1GkJfY6TPqrACLcBGAs/s1600/Bundesliga.png", LIVE JER 1
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s4.merizaat.com:999/hls/do33.m3u8?md5=CntIyYjzn2mq_r7bjKaegQ&expires=1662148218
+
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-XM4H1etkO6g/WwMZIM5WjyI/AAAAAAAAHGQ/ZDnEXCkq02gYWK29qUSsh1GkJfY6TPqrACLcBGAs/s1600/Bundesliga.png", LIVE JER 2
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s4.merizaat.com:999/hls/do33.m3u8?md5=CntIyYjzn2mq_r7bjKaegQ&expires=1662148218
+
+🇫🇷PRANCIS🇫🇷
+=========================================
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzuf1npnVqQjNxXlGyx9e1QxkhqrL0lH9jwg&usqp=CAU", LIVE PRAN 1
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s4.merizaat.com:999/hls/do33.m3u8?md5=CntIyYjzn2mq_r7bjKaegQ&expires=1662148218
+
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzuf1npnVqQjNxXlGyx9e1QxkhqrL0lH9jwg&usqp=CAU", LIVE PRAN 2
+#EXTVLCOPT:http-referrer=https://yourtehzeeb.com/
+https://s4.merizaat.com:999/hls/do33.m3u8?md5=CntIyYjzn2mq_r7bjKaegQ&expires=1662148218
