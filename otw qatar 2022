@@ -2,5 +2,14 @@ support channel: t.me/c9p5aU
 
 🏅UEFA NATIONAL LEAGUE 🏅
 =========================================
-#EXTINF:1 tvg-logo="https://i0.wp.com/www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png?w=618&ssl=1",
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", FRANCE vs AUSTRIA
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz:443/hls/elevensport1/livehd/elevensport1_level1/chunks.m3u8
+
+#EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", BELGIUM vs WALES
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz:443/hls/elevensport1/livehd/elevensport1_level1/chunks.m3u8
+
+#EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", POLAND vs NETHERLANDS
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz:443/hls/elevensport1/livehd/elevensport1_level1/chunks.m3u8
