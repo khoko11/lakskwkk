@@ -1,7 +1,11 @@
-#EXTINF:1, INEWS
-https://sin01-path.edge.serveraku.net:443/stream/inewstv/chunks.m3u8?nimblesessionid=11340849&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIyIDQ6NTQ6MDUgQU0maGFzaF92YWx1ZT0ybnVnUnpiQW4vNzVtenNuaUhHRkx3PT0maWQ9Y2FzcmdkOXw2NzVmN2I3Zi0xYjBjLTQ3YzAtYTg2Yi1mMGMxNGI1NmVmNDEmdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MTQ=&id=675f7b7f-1b0c-47c0-a86b-f0c14b56ef41
+#EXTINF:1, ASTRO SPORT 2
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/cdnus/premium124/tracks-v1a1/mono.m3u8
 
-#EXTINF:1,ASTRO SUPER SPORT 2
-https://sin01-path.edge.serveraku.net:443/stream/assp2/chunks.m3u8?nimblesessionid=11342712&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIyIDU6MzQ6MDIgQU0maGFzaF92YWx1ZT1ZY2FvNmNwY0dxMERKMk04TFF4RStBPT0maWQ9Y2FzcmdkOXwwOWQyYjY4Ny1kZjIyLTQ5YjQtOTY0Zi1iZDU3OWE5NTFmZGYmdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MTI=&id=09d2b687-df22-49b4-964f-bd579a951fdf
+#EXTINF:1, ASTRO SPORT 3
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/cdnus/premium125/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:1, ASTRO SPORT 4
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/cdnus/premium126/tracks-v1a1/mono.m3u8
