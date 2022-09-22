@@ -1,3 +1,13 @@
 #EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", LIVE 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://us4.livechymde.xyz:443/za_supersportpremierleague/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", LIVE 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://us4.livechymde.xyz/za_supersportfootball/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", LIVE 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ge3.livechymde.xyz/hls3/pt_sporttv4/live/pt_sporttv4_720/chunks.m3u8
+
+
