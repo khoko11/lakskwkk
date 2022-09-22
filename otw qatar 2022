@@ -3,10 +3,7 @@ support channel: t.me/c9p5aU
 🇮🇩 LIGA 2 🇮🇩
 =========================================
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Liga_2_Indonesia_Baru.png", Live 1
-https://sin01-path.edge.serveraku.net:443/stream/macan_encoder_1/chunks.m3u8?nimblesessionid=11551747&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIyIDg6NTY6NDIgQU0maGFzaF92YWx1ZT13WDB6Vk9JVHl0V09XN081UnZ5NDF3PT0maWQ9Y2FzcmdkOXw0ODU2NzYxNS01NzRlLTQ2ZGYtOWI2ZC1iYWM1OTg0OTk4ZGUmdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjI=&id=48567615-574e-46df-9b6d-bac5984998de
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Liga_2_Indonesia_Baru.png", Live 2
-https://etslive-2-vidio-com.akamaized.net:443/exp=1663846758~acl=/hls-p/ingest_9616_*/*~hmac=de818d200b257c6b3d2005ce0cfbae566a78bbbda8085b2db576332e70987943/hls-p/ingest_9616_1080p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net:443/exp=1663846927~acl=/hls-p/ingest_9858_*/*~hmac=f72e7638a48b7091fb39da596b7bd376636c96e02b8343bf5ae7f91adb1e5d9e/hls-p/ingest_9858_1080p/index.m3u8
 
 🏅UEFA NATIONAL LEAGUE 🏅
 =========================================
