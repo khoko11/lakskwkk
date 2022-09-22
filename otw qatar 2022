@@ -1,6 +1,5 @@
-#EXTINF:1,LIVE 1
-https://etslive-2-vidio-com.akamaized.net:443/exp=1663859130~acl=/hls-p/ingest_206_*/*~hmac=6f90c039982be3595248660af4ba905d00a93d3b0a410ae2e4dc0d1e3f589db3/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:1,live 1
+https://etslive-2-vidio-com.akamaized.net:443/exp=1663859287~acl=/hls-p/ingest_206_*/*~hmac=f1f973ce35933c5d5c00167a26743530f020ca7b4917fa9cdb43cf247fd2e374/hls-p/ingest_206_1080p/index.m3u8
 
-#EXTINF:1,live 2
-https://etslive-2-vidio-com.akamaized.net:443/exp=1663846927~acl=/hls-p/ingest_9858_*/*~hmac=f72e7638a48b7091fb39da596b7bd376636c96e02b8343bf5ae7f91adb1e5d9e/hls-p/ingest_9858_720p/index.m3u8
-
+#EXTINF:1,live 1
+https://etslive-2-vidio-com.akamaized.net:443/exp=1663859287~acl=/hls-p/ingest_206_*/*~hmac=f1f973ce35933c5d5c00167a26743530f020ca7b4917fa9cdb43cf247fd2e374/hls-p/ingest_206_720p/index.m3u8
