@@ -2,6 +2,7 @@ support channel: t.me/c9p5aU
 
 🇮🇩 LIGA 2 🇮🇩
 =========================================
+#EXTM3U
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Liga_2_Indonesia_Baru.png", Live 1
 https://sin01-path.edge.serveraku.net:443/stream/macan_encoder_1/chunks.m3u8?nimblesessionid=11550147&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIyIDg6MjY6NDUgQU0maGFzaF92YWx1ZT1PR1dqS200SCsyS044NHN3NTdOM2R3PT0maWQ9Y2FzcmdkOXxhZDdhYWZmZi0wOGZmLTRiYzEtYWM3My00MDgwMjA1YTkwZDkmdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjI=&id=ad7aafff-08ff-4bc1-ac73-4080205a90d9
 
