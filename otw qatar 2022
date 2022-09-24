@@ -1,11 +1,2 @@
-#EXTINF:1,Argentina 🆚 Honduras
-#EXTVLCOPT:http-referrer=http://vikistream.com/
-https://s5.lucascd.com:8080/hls/w13.m3u8?md5=PcwcslcvoXIpk1h-fF6jaw&expires=1663982367
-
-#EXTINF:1,Argentina 🆚 Honduras 2
-#EXTVLCOPT:http-referrer=https://m9484m5vcd91g48.smokelearned.net/
-https://4c5hu8z6jsdre2gt.cdnexpress11.net:8443/hls/hh2qwzit8rc.m3u8?s=RKDQfoPw9WKpchAT7Soj3w&e=1663997318
-
-#EXTINF:1,Argentina 🆚 Honduras 3
-#EXTVLCOPT:http-referrer=https://m9484m5vcd91g48.smokelearned.net/
-https://4c5hu8z6jsdre2gt.cdnexpress11.net:8443/hls/ksji2aq4bn72.m3u8?s=QBiTicnHLf2msoZL9bqM0g&e=1663997882
+#EXTINF:1, KUALIFIKASI MOTO GP
+https://webui.vhls.ru.com/ddy5/premium32/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
