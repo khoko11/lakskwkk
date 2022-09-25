@@ -1,8 +1,5 @@
-#EXTINF:1,GPN1
-https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1664065806~exp=9007200918806797~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8*~hmac=7ec124a48fceaa726d10b77620fe067a61b656253b0934a0a776ebbc0b1901c6
+#EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", DENMARK vs PERANCIS
+https://delivery.zaltvpremium.top:443/stream/live_2/playlist.m3u8?token=casrgd9
 
-#EXTINF:1,GP 2
-https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1664065806~exp=9007200918806797~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=7aa3d8c3d93c69d14373b945260e31b2763a66254b0aeea4bcdf201a5ab912e9
-
-#EXTINF:1, GP 3
-https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1664065806~exp=9007200918806797~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8*~hmac=85fc68e0a3c730c2c4c2c6351410ff630029f562a263d7d8864d36b78eca4e64
+#EXTINF:1 tvg-logo="https://www.soccerzz.com/img/logos/competicoes/4456_imgbank_unl_20180123172621.png", BELANDA vs BELGIA
+https://delivery.zaltvpremium.top:443/stream/live_3/playlist.m3u8?token=casrgd9
