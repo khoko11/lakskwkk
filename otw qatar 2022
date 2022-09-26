@@ -1,3 +1,2 @@
 #EXTINF:1,Premier sports 1
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://ge1.livechymde.xyz/hls1/ukpremiersports1/livehd/ukpremiersports1_720/chunks.m3u8
+https://ge1.livechymde.xyz/hls1/ukpremiersports1/livehd/ukpremiersports1_720/chunks.m3u8|referer=https://aesport.tv/
