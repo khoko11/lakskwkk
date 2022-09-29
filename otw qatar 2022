@@ -3,3 +3,6 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 
 #EXTINF:1 tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", LIVE EVENT
 https://delivery.zaltvpremium.top:443/stream/id_indosiar/playlist.m3u8?token=casrgd9|referer=https://sin01-path.edge.serveraku.net:443/stream/
+
+#EXTINF:1, tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", LIVE EVENT 2
+https://etslive-2-vidio-com.akamaized.net:443/exp=1664471349~acl=/hls-p/ingest_205_*/*~hmac=76dff26bd6ab217fcd0d6ae723b8e998660acc86b07fdcf9012155451920eaec/hls-p/ingest_205_1080p/index.m3u8
