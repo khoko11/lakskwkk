@@ -13,24 +13,167 @@ https://etslive-2-vidio-com.akamaized.net:443/exp=1664627851~acl=/hls-p/ingest_9
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Liga_2_Indonesia_Baru.png", [LIGA 2] LIVE 1
 https://etslive-2-vidio-com.akamaized.net:443/exp=1664551218~acl=/hls-p/ingest_9622_*/*~hmac=e5c126627f09747a54e4ad88943f2c5e9750db5eca3fefab52239b3073c5faf9/hls-p/ingest_9622_720p/index.m3u8
 
-#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-XM4H1etkO6g/WwMZIM5WjyI/AAAAAAAAHGQ/ZDnEXCkq02gYWK29qUSsh1GkJfY6TPqrACLcBGAs/s1600/Bundesliga.png", [BUNDES LIGA] LIVE 1
-https://webui.vhls.ru.com/ddy1/premium124/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+#EXTINF:1, ASTRO SPORT 1
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium123/index.m3u8
 
-#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-XM4H1etkO6g/WwMZIM5WjyI/AAAAAAAAHGQ/ZDnEXCkq02gYWK29qUSsh1GkJfY6TPqrACLcBGAs/s1600/Bundesliga.png", [BUNDES LIGA] LIVE 2
-https://ge1.livechymde.xyz/hls1/uk_beinsportsenglish1/livehd/uk_beinsportsenglish1_720/chunks.m3u8|referer=https://aesport.tv/
+#EXTINF:1, ASTRO SPORT 2
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium124/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="https://www.nicepng.com/png/full/340-3408253_premier-league-transparent-png-barclays-premier-league-logo.png", [PREMIERE LEAGUE] LIVE 1
-https://webui.vhls.ru.com:443/ddy5/premium31/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/
+#EXTINF:1, ASTRO SPORT 3
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium125/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="https://www.nicepng.com/png/full/340-3408253_premier-league-transparent-png-barclays-premier-league-logo.png", [PREMIERE LEAGUE] LIVE 2
-https://vladruman.com/rumanov/0014/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDExOjIxOjE1IEFNJmhhc2hfdmFsdWU9ZTZ3UG4vVE5HczIxVzVnK2xvc1o4QT09JnZhbGlkbWludXRlcz0zMDAmaWQ9NQ==|referer=xestreams.com/
+#EXTINF:1, ASTRO SPORT 4
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium126/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="https://www.nicepng.com/png/full/340-3408253_premier-league-transparent-png-barclays-premier-league-logo.png", [PREMIERE LEAGUE] LIVE 3
-http://185.53.88.143:8080/hls/streama198166/index.m3u8?cst=dab06db7e6f1bf178383236f1f3a1ce4
+#EXTINF:1, ASTRO SPORT 5
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium43/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="https://brandlogos.net/wp-content/uploads/2020/09/serie-a-logo-768x768.png", [SERIE A] LIVE 2
+#EXTINF:1, ARENA SPORT 1
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium134/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ARENA SPORT 1 pr
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium134/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ARENA SPORT 2
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy6/premium433/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ARENA SPORT 2 pr
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium135/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ARENA SPORT 3
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy5/premium431/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ARENA SPORT 3 pr
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium139/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ARENA SPORT 4
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium108/index.m3u8
+
+#EXTINF:1, BEIN HD USA
+#EXTVLCOPT:http-referrer=https://www.tutele.nl/
+https://e00.zorritohd.net/live/STa34332cd1c7f976.m3u8
+
+#EXTINF:1, BEIN 1 fr
+#EXTVLCOPT:http-referrer=https://voraciousglove.net/
+https://syswcknhuva.cdnexpress42.net:8443/hls/ysagetp2j4x.m3u8?s=PfmljZzVwzli3f1A2pEorQ&e=1664435336
+
+#EXTINF:1, BEIN 1 HD
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy2/premium62/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BEIN 1 eng
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium61/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BEIN 2 Fr
+#EXTVLCOPT:http-referrer=https://voraciousglove.net/
+https://syswcknhuva.cdnexpress42.net:8443/hls/wedpl8t.m3u8?s=t-eSJRYXax7O93eQUK55cQ&e=1664435231
+
+#EXTINF:1, BEIN 2 eng
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium90/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BEIN 2 HD
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy2/premium63/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BEIN 3 Fr
+#EXTVLCOPT:http-referrer=https://voraciousglove.net/
+https://syswcknhuva.cdnexpress42.net:8443/hls/v2db7kg.m3u8?s=MA8MKTLITfxImrcASPSb3Q&e=1664362027
+
+#EXTINF:1, BEIN 3 eng
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium46/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BEIN 3 HD
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy2/premium64/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BT sport 1 
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy5/premium31/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BT sport 2
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://webui.vhls.ru.com/ddy5/premium32/tracks-v1a1/mono.m3u8
 
-#EXTINF:1, sport racing
-https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1664602203~exp=9007200919343194~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=b5e47a889d486d8dfc0b8d58dd6e9e1093fcec776d1e0b9e8a9bad431a93e7be
+#EXTINF:1, BT sport 3
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy5/premium33/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BT sport 4
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+https://play9.cdn786.com:999/hls/bbtespn.m3u8?md5=M86wiWLEvPjGL4BaGaRNNQ&expires=1664426180
+
+#EXTINF:1, BT sport ESPN
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy5/premium32/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, Sky Sport Football
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com:443/ddy5/premium35/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, Sky Sport Football IT
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com:443/ddy3/premium460/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:1, SKY SPORT 1 HD
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy6/premium588/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, SKY SPORT 2 HD
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy4/premium12/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, SKY SPORT 3 HD
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy6/premium590/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, CANAL+ SPORT PREMIUM
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/cdn4/premium566/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, CANAL+ SPORT 2 
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/cdnus/premium122/tracks-v1/mono.m3u8
+
+#EXTINF:1, DAZN 1
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium445/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, DAZN 2
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium446/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ELEVEN SPORT 1
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com:443/ddy4/premium71/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ELEVEN SPORT 2 new
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com:443/ddy4/premium72/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ELEVEN SPORT 2
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy4/premium72/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ELEVEN SPORT 3
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium428/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, ELEVEN SPORT 4
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy4/premium12/tracks-v1a1/mono.m3u8
