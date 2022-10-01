@@ -1,16 +1,16 @@
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/AFC_Futsal_Asian_Cup_2022_logo.png", AFC FUTSAL CUPxyz
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index_6.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:1 tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", LIVE EVENT 1
+#EXTINF:1 tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", [BRI LIGA 1] LIVE 1
 https://delivery.zaltvpremium.top:443/stream/id_indosiar/playlist.m3u8?token=casrgd9|referer=https://sin01-path.edge.serveraku.net:443/stream/
 
-#EXTINF:1, tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", LIVE EVENT 2
+#EXTINF:1, tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg",  [BRI LIGA 1] LIVE 2
 https://etslive-2-vidio-com.akamaized.net:443/exp=1664558658~acl=/hls-p/ingest_9785_*/*~hmac=87ea5d3486d42d111e2aaea257bd2e61bb86b75b1f85ce0b2e0e249361f17867/hls-p/ingest_9785_720p/index.m3u8
 
-#EXTINF:1, tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", LIVE EVENT 3
+#EXTINF:1, tvg-logo="https://kilatnews.co/wp-content/uploads/2021/10/LOGO-BRI-LIGA-1-VECTOR-IDNGRAFIS-1-768x543.jpg", [BRI LIGA 1] LIVE 3
 https://etslive-2-vidio-com.akamaized.net:443/exp=1664558658~acl=/hls-p/ingest_9785_*/*~hmac=87ea5d3486d42d111e2aaea257bd2e61bb86b75b1f85ce0b2e0e249361f17867/hls-p/ingest_9785_720p/index.m3u8
 
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Liga_2_Indonesia_Baru.png", Live 1
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Liga_2_Indonesia_Baru.png", [LIGA 2] LIVE 1
 https://etslive-2-vidio-com.akamaized.net:443/exp=1664551218~acl=/hls-p/ingest_9622_*/*~hmac=e5c126627f09747a54e4ad88943f2c5e9750db5eca3fefab52239b3073c5faf9/hls-p/ingest_9622_720p/index.m3u8
 
 #EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-XM4H1etkO6g/WwMZIM5WjyI/AAAAAAAAHGQ/ZDnEXCkq02gYWK29qUSsh1GkJfY6TPqrACLcBGAs/s1600/Bundesliga.png", [BUNDES LIGA] LIVE 1
