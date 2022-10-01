@@ -1,5 +1,3 @@
+#EXTM3U
 #EXTINF:1, LIVE EVENT
-https://delivery.zaltvpremium.top:443/stream/live_1/playlist.m3u8?token=casrgd9
-
-#EXTINF:1 tvg-logo="https://brandlogos.net/wp-content/uploads/2020/09/serie-a-logo-768x768.png", [SERIE A] LIVE 1
-https://delivery.zaltvpremium.top:443/stream/macan_sport_1/playlist.m3u8?token=casrgd9
+https://ge2.livechymde.xyz:443/hls2/uk_btsport1/livehd/uk_btsport1_720/chunks.m3u8|referer=https://aesport.tv/
