@@ -28,5 +28,8 @@ https://vladruman.com/rumanov/0014/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvM
 #EXTINF:1 tvg-logo="https://www.nicepng.com/png/full/340-3408253_premier-league-transparent-png-barclays-premier-league-logo.png", [PREMIERE LEAGUE] LIVE 3
 http://185.53.88.143:8080/hls/streama198166/index.m3u8?cst=dab06db7e6f1bf178383236f1f3a1ce4
 
+#EXTINF:1 tvg-logo="https://brandlogos.net/wp-content/uploads/2020/09/serie-a-logo-768x768.png", [SERIE A] LIVE 2
+https://delivery.zaltvpremium.top:443/stream/macan_sport_1/playlist.m3u8?token=casrgd9|referer=https://sin01-path.edge.serveraku.net:443/stream/
+
 #EXTINF:1, sport racing
 https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1664602203~exp=9007200919343194~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=b5e47a889d486d8dfc0b8d58dd6e9e1093fcec776d1e0b9e8a9bad431a93e7be
