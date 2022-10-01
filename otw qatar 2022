@@ -18,3 +18,6 @@ https://webui.vhls.ru.com/ddy1/premium124/tracks-v1a1/mono.m3u8|referer=https://
 
 #EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-XM4H1etkO6g/WwMZIM5WjyI/AAAAAAAAHGQ/ZDnEXCkq02gYWK29qUSsh1GkJfY6TPqrACLcBGAs/s1600/Bundesliga.png", [BUNDES LIGA] LIVE 2
 https://ge1.livechymde.xyz/hls1/uk_beinsportsenglish1/livehd/uk_beinsportsenglish1_720/chunks.m3u8|referer=https://aesport.tv/
+
+#EXTINF:1,smart tv
+http://51.79.138.201:25461/live/indoneuetyhbsrt/bxbdrtyhevxh/46417.m3u8?token=QhBYV0dYRg4TClRQBlUIVgFdVlZSCApdDAIBVFNQAgBfAlYHAlFVVgMaSBAQEEJXVQhvWgIbCVEPAAEGTRQUEVxAb19QEl4WAAlSC1pREh4WEVleAxsJVRUWQFgFFFtACwMBAgMSSBZUQBBXEQpRXmsBVUUPWlZHA1pFXQ0aQw1XbVRTWVEKUBMCRgJBSBJbRxUSCQhMXwkVFlJYFUQAFlwQChQFB1QHExRGUQwRXkZGHBIJRHB3RxUWVUkVUw8RUF1eFA4SCQdEAEYeQQ1DbUYAQ0cUXFIIXEYSC0MGQ04bX1FOa1MLWl9dB0YKC15BFl8SAlYbH0dUW15YFVkTPUlbVBQOElcECA1dEB4=
