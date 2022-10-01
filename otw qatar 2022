@@ -19,5 +19,5 @@ https://webui.vhls.ru.com/ddy1/premium124/tracks-v1a1/mono.m3u8|referer=https://
 #EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-XM4H1etkO6g/WwMZIM5WjyI/AAAAAAAAHGQ/ZDnEXCkq02gYWK29qUSsh1GkJfY6TPqrACLcBGAs/s1600/Bundesliga.png", [BUNDES LIGA] LIVE 2
 https://ge1.livechymde.xyz/hls1/uk_beinsportsenglish1/livehd/uk_beinsportsenglish1_720/chunks.m3u8|referer=https://aesport.tv/
 
-#EXTINF:1,smart tv
-http://51.79.138.201:25461/live/indoneuetyhbsrt/bxbdrtyhevxh/46417.m3u8?token=QhBYV0dYRg4TClRQBlUIVgFdVlZSCApdDAIBVFNQAgBfAlYHAlFVVgMaSBAQEEJXVQhvWgIbCVEPAAEGTRQUEVxAb19QEl4WAAlSC1pREh4WEVleAxsJVRUWQFgFFFtACwMBAgMSSBZUQBBXEQpRXmsBVUUPWlZHA1pFXQ0aQw1XbVRTWVEKUBMCRgJBSBJbRxUSCQhMXwkVFlJYFUQAFlwQChQFB1QHExRGUQwRXkZGHBIJRHB3RxUWVUkVUw8RUF1eFA4SCQdEAEYeQQ1DbUYAQ0cUXFIIXEYSC0MGQ04bX1FOa1MLWl9dB0YKC15BFl8SAlYbH0dUW15YFVkTPUlbVBQOElcECA1dEB4=
+#EXTINF:1, sport racing
+https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1664602203~exp=9007200919343194~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=b5e47a889d486d8dfc0b8d58dd6e9e1093fcec776d1e0b9e8a9bad431a93e7be
