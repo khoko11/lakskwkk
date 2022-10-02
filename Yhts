@@ -5,3 +5,6 @@ https://webui.vhls.ru.com/ddy1/premium124/tracks-v1a1/mono.m3u8
 #EXTINF:1, BT sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://ge2.livechymde.xyz/hls2/uk_btsport1/livehd/uk_btsport1_720/chunks.m3u8
+
+#EXTINF:1, SPOVTV
+https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1664679604~exp=9007200919420595~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=661f549d92594464a5c859b924e6b5d6abdcc8d86607443e6663c1f66ece9ba1
