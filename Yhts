@@ -1,4 +1,7 @@
-#EXTINF:1, LIVE 1
-https://play6.cdn786.com:999/hls/bbtsp2.m3u8?md5=6C_QV6fzsk8Sd_TKqRcQaw&expires=1664675299|referer=https://fclecteur.com/.m3u8
-#EXTINF:1, LIVE 2
-https://s8.gocast123.me:8201/hd/hls/WoAybmCi67gkM3jqykDdKQ/1664671132/ptvpk.m3u8|referer=https://gocast123.me/.m3u8
+#EXTINF:1, ASTRO SPORT 2
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webui.vhls.ru.com/ddy1/premium124/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, BT sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ge2.livechymde.xyz/hls2/uk_btsport1/livehd/uk_btsport1_720/chunks.m3u8
