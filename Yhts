@@ -1,5 +1,35 @@
-#EXTINF:1, pre 2
+#EXTINF:1, INDOSIAR
 https://delivery.zaltvpremium.top:443/stream/live_2/playlist.m3u8?token=casrgd9
 
-#EXTINF:1, INDOSIAR
-https://delivery.zaltvpremium.top:443/stream/id_indosiar/playlist.m3u8?token=casrgd9
+#EXTINF:1, SCTV
+https://delivery.zaltvpremium.top:443/stream/id_sctv/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, Bein Sport 1 ID
+https://delivery.zaltvpremium.top:443/stream/macan_sport_1/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, Bein Sport 3 ID
+https://delivery.zaltvpremium.top:443/stream/macan_sport_2/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, Bein Sport My
+https://delivery.zaltvpremium.top:443/stream/macan_sport_5/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, Bein Sport Max
+https://delivery.zaltvpremium.top:443/stream/macan_sport_6/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, LIVE 1
+https://delivery.zaltvpremium.top:443/stream/live_1/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, LIVE 2
+https://delivery.zaltvpremium.top:443/stream/live_2/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, LIVE 3
+https://delivery.zaltvpremium.top:443/stream/live_3/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, LIVE 4
+https://delivery.zaltvpremium.top:443/stream/live_4/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, SPOTV 1
+https://delivery.zaltvpremium.top:443/stream/spotv1/playlist.m3u8?token=casrgd9
+
+#EXTINF:1, SPOTV 2
+https://delivery.zaltvpremium.top:443/stream/spotv2/playlist.m3u8?token=casrgd9
