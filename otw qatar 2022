@@ -46,4 +46,20 @@ http://23.226.71.77/GaNEcyhD2HQI3e4vdxlqZ2qBJC8_90jhJeWcJKzbwF4ua2NxiYFqClaDyyB2
 #EXTGRP:imperfect the series 2
 http://23.226.71.77/h6C4RRCH1oLECo5UrBG_ikIvvKgeV99VGioaLYkYl_kGcf_AO3r_sLuXmsYujN7ZNVn0dsC-8lT07UHhpx5Chw/sDLbus8sv-IrI69lh9lrKbEjBDI9_GPEN-4KP-M8Q2U/1080.m3u8|referer=http://172.96.161.72/.m3u8
 
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 13
+#EXTGRP:imperfect the series 2
+https://hls13-eu.zcdn.stream/848e6177eb33d7100fc034b8cc59c7f8/2023-01-10/video.m3u8?auth=5795fdac13d8f9fc50003fb5a65deecd&expires=1677218386&type=edge&node=WyJlZGdlMTUtZXUuemNkbi5zdHJlYW0iLCJlZGdlMTctZXUuemNkbi5zdHJlYW0iLCJlZGdlMjEuemNkbi5zdHJlYW0iLCJlZGdlMjcuemNkbi5zdHJlYW0iLCJlZGdlMzAuemNkbi5zdHJlYW0iXQ==
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 14
+#EXTGRP:imperfect the series 2
+https://hls18-eu.zcdn.stream/fea61a491f891e8689b934e1e55b548c/2023-01-10/video.m3u8?auth=4c3853c5dc4eea93245e88c163f8b00c&expires=1677218549&type=edge&node=WyJlZGdlNC1ldS56Y2RuLnN0cmVhbSIsImVkZ2U3LnpjZG4uc3RyZWFtIiwiZWRnZTEyLWV1LnpjZG4uc3RyZWFtIiwiZWRnZTEzLWV1LnpjZG4uc3RyZWFtIiwiZWRnZTIwLWV1LnpjZG4uc3RyZWFtIl0=
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 15
+#EXTGRP:imperfect the series 2
+https://hls18-eu.zcdn.stream/709c513f49c870ee58675bcef81cce92/2023-01-14/video.m3u8?auth=0930d44e565af2bef41d2553d0744221&expires=1677217928&type=edge&node=WyJlZGdlMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMC1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNC1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNS1ldS56Y2RuLnN0cmVhbSJd
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 16
+#EXTGRP:imperfect the series 2
+https://hls16-eu.zcdn.stream/90b60f7297e48ad3671f31afc6da9ec9/2023-01-14/video.m3u8?auth=4d1568c1f55c37fcf5e97c61ed2bfe21&expires=1677218243&type=edge&node=WyJlZGdlMTItZXUuemNkbi5zdHJlYW0iLCJlZGdlMTQtZXUuemNkbi5zdHJlYW0iLCJlZGdlMTUtZXUuemNkbi5zdHJlYW0iLCJlZGdlMjEuemNkbi5zdHJlYW0iLCJlZGdlMjcuemNkbi5zdHJlYW0iXQ==
+
 
