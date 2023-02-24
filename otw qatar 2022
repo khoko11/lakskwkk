@@ -1,8 +1,49 @@
-#EXTINF:1, ASTRO 
-https://moon-100ge-streaming-server.filemoon.to/hls2/01/02913/m3m53nsr9fou_h/index-v1-a1.m3u8?t=T9VdFEmeW4G1jWB9cCjKUegiZPNSkYYFG74ennYzeTA&s=1675946963&e=43200&f=14568999&srv=moon-storage-delivery-s63&asn=7713&sp=3000://stream.xpeer.xyz/.m3u8
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 1
+#EXTGRP:imperfect the series 2
+http://23.226.71.76/7Z0i5ZivUBPGucSSz3nAnBay3m0_zlP0FiAfpnpMFSJ4LsmtBkmr1VN2fHyeSydf6u-KnmkonKkgNOgoTbb5HQ/T7OyyqcsgLzMVrPpRAu7N6ElEx8F2eCZDINu_PeJ6bc/1080.m3u8|referer=http://172.96.161.72/.m3u8
 
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 2
+#EXTGRP:imperfect the series 2
+http://23.226.71.76/HAHFkF7TcCce1reV80witWbRmjcskHDDcaGnS8S9xbo3aa8ADVzZ6I2eMKGgUvcdqq_iC-1XKQInB4lA7DeIkQ/wIAmHXQZL-gqvUCv8VMTW9vzQIz7dcDeoYWTt9LaL5s/1080.m3u8|referer=http://172.96.161.72/.m3u8
 
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 3
+#EXTGRP:imperfect the series 2
+http://23.226.71.76/DCeV5mk0lirW7IYMAJNgWXdWAe6due3jxVQig1nB464BVcKqndh8botx05bnHfv4VwDZB0oHq58fg4d4OJ5OcQ/EcpWwXnOOZJ3AkdxPLvxucD_W1e7OPWRUy8qty_mYh8/1080.m3u8|referer=http://172.96.161.72/.m3u8
 
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 4
+#EXTGRP:imperfect the series 2
+http://23.226.71.76/mKyCL1sJpLvvqDwM9Yt04TDszUbjYNCK5nRxsc5Ss22J4p2r3vbRX2fOBAqsGnVy6ZCQQG02SpGMMgCac39czw/pssglP7nayqOAvNrJNpCF3o-39PX_B4UOVkd4sXU5tg/video.m3u8|referer=http://172.96.161.72/.m3u8
 
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 5
+#EXTGRP:imperfect the series 2
+http://23.226.71.76/jPmp4EYpgVh1GMJFhn3qaUJwyJ2mljVSMg0Yml2Ao8noTDeQyiqT7FLPqc22-EOaX4bsre-sPKuChPknfSdGfw/3GqXPgl3OyK_SuK-CSLpFFRQFITXmDQGiTQxzi84jyU/video.m3u8|referer=http://172.96.161.72/.m3u8
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 6
+#EXTGRP:imperfect the series 2
+http://23.226.71.76/QmPn-_1Z7NuE4XiX0WwyXbGqkQHC4g84rJqJppO_Y4PNinVB4r9IROsqZTi0_jdkafNJ86BbX47gj4tzwADxSw/5bR6hw6QKayYLI2ahRhALNJcqIMeeaE4F-ztoM-axc4/1080.m3u8|referer=http://172.96.161.72/.m3u8
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 7
+#EXTGRP:imperfect the series 2
+http://23.226.71.77/HxNKczK6fXpIQiaP9IB5iwrWZHGqcR8mznZYce7kAZZnI-WZ9yQG0NqXfPzcLF3gZ3-KgqiULdLCF54gtEtgGA/yWT7ArtMPdgcfT4PMLAuNUcDObD9DCb4PX6anrrp658/1080.m3u8|referer=http://172.96.161.72/.m3u8
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 8
+#EXTGRP:imperfect the series 2
+http://23.226.71.77/Y601Ca9SSu7czwvyk9phC_ESbxl6PGlfNvHXcoHbCoB6moNL_lD4HMM44fdYYaaFj-zE3Vc69m2ZvAabkZRyHQ/lBvZdbPTK9ijiU8s_mm_172lGtFOoFgHmbsSOgj_NRo/1080.m3u8|referer=http://172.96.161.72/.m3u8
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 9
+#EXTGRP:imperfect the series 2
+http://23.226.71.77/QMX3fMy5uH5ZAoHr2R_3bC12kcqcjZaRjZog3yqrfl_kezzN_2PdMcdpENwYdRIzFKO11vqI4FZRBTy9H2srVw/QEA-wy85_hUehPoLi3YExdjUvTMXTBdBTTY1QO4DqyQ/1080.m3u8|referer=http://172.96.161.72/.m3u8
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 10
+#EXTGRP:imperfect the series 2
+http://23.226.71.77/5XDiQM_ugd48TN0zSuLIgfgFcOsaiQcrXBtyovknBw5XRU-4a9KcluOqR6Krq0o4LQwkgt2rzdyqaKg3SClF4w/3OfLg6WE-wc2ASRmNbnZfKPHtwXQuVHY-2S6bZtDmmc/1080.m3u8|referer=http://172.96.161.72/.m3u8
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 11
+#EXTGRP:imperfect the series 2
+http://23.226.71.77/GaNEcyhD2HQI3e4vdxlqZ2qBJC8_90jhJeWcJKzbwF4ua2NxiYFqClaDyyB2T12DIW7NMrowccQKh2BWvkL_Lw/2kwjioqIT9JD8LGAjN0P6BDG87Zr0jmLwesZpZUPt8E/1080.m3u8|referer=http://172.96.161.72/.m3u8
+
+#EXTINF:1, tvg-logo="https://asset.kompas.com/crops/gMqOA3xA_7zApFwG8FM9nSHRuzc=/347x210:1561x1020/750x500/data/photo/2022/11/14/6371c650e3ae9.png",EPS 12
+#EXTGRP:imperfect the series 2
+http://23.226.71.77/h6C4RRCH1oLECo5UrBG_ikIvvKgeV99VGioaLYkYl_kGcf_AO3r_sLuXmsYujN7ZNVn0dsC-8lT07UHhpx5Chw/sDLbus8sv-IrI69lh9lrKbEjBDI9_GPEN-4KP-M8Q2U/1080.m3u8|referer=http://172.96.161.72/.m3u8
 
 
